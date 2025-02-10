@@ -1,7 +1,13 @@
 {
-  "name": "project",
+  "name": "form-filler-semantic-release",
   "version": "1.0.1",
-  "private": true,
+  "author": "Oyungerel Jargalsaikhan",
+  "license": "UNLICENSED",
+  "keywords": [
+    "form",
+    "filler",
+    "npm-package"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -73,5 +79,15 @@
         }
       ]
     ]
-  }
+  },
+  "description": "This is a form-filler demo",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oonoo19/form-filler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Oonoo19/form-filler/issues"
+  },
+  "homepage": "https://github.com/Oonoo19/form-filler#readme"
 }
