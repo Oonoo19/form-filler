@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -42,7 +42,8 @@
   },
   "release": {
     "branches": [
-      "main", "next"
+      "main",
+      "next"
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",
@@ -66,7 +67,9 @@
           "addReleases": "bottom",
           "failComment": false,
           "successComment": "This ${nextRelease.version} release is live!",
-          "assets": ["dist/**"]
+          "assets": [
+            "dist/**"
+          ]
         }
       ]
     ]
