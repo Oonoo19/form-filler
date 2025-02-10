@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/Oonoo19/form-filler/compare/v1.0.0...v1.0.1) (2025-02-10)
+
+
+### Bug Fixes
+
+* changed privacy ([4c20785](https://github.com/Oonoo19/form-filler/commit/4c20785cf59f0e8eefddbff917ead79844cc2816))
+* fixed privacy ([2897b9e](https://github.com/Oonoo19/form-filler/commit/2897b9e2584def8a68e609e6806dae890b034000))
+
 # 1.0.0 (2025-02-10)
 
 
