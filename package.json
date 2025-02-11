@@ -65,7 +65,7 @@
           "failComment": false,
           "successComment": "This ${nextRelease.version} release is live!",
           "assets": [
-            "dist/**"
+            ".next/**"
           ]
         }
       ]
