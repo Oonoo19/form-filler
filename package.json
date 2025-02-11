@@ -1,6 +1,6 @@
 {
   "name": "form-filler-semantic-release",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "author": "Oyungerel Jargalsaikhan",
   "license": "UNLICENSED",
   "entry": "./index.ts",
@@ -95,9 +95,9 @@
   },
   "homepage": "https://github.com/Oonoo19/form-filler#readme",
   "exports": {
-  ".": {
-    "import": "./dist/index.mjs", 
-    "require": "./dist/index.cjs"  
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
   }
-}
 }
