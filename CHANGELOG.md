@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/Oonoo19/form-filler/compare/v1.0.3...v1.0.4) (2025-02-11)
+
+
+### Bug Fixes
+
+* omitted private field ([aa1995e](https://github.com/Oonoo19/form-filler/commit/aa1995e39b95e83ddeaa1ac3778d1e5631f7dbc2))
+
 ## [1.0.3](https://github.com/Oonoo19/form-filler/compare/v1.0.2...v1.0.3) (2025-02-11)
 
 
