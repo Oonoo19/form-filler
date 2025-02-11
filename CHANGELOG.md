@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Oonoo19/form-filler/compare/v1.0.4...v1.1.0) (2025-02-11)
+
+
+### Features
+
+* cleaned project ([e514b4a](https://github.com/Oonoo19/form-filler/commit/e514b4ab6d0c0e046bd45d49348b2395cc923b7b))
+
 ## [1.0.4](https://github.com/Oonoo19/form-filler/compare/v1.0.3...v1.0.4) (2025-02-11)
 
 
