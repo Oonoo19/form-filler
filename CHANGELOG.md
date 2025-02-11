@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/Oonoo19/form-filler/compare/v1.1.1...v1.1.2) (2025-02-11)
+
+
+### Bug Fixes
+
+* changed index file extension ([290912e](https://github.com/Oonoo19/form-filler/commit/290912eca522235bd8227a9358175d022deb86c3))
+
 ## [1.1.1](https://github.com/Oonoo19/form-filler/compare/v1.1.0...v1.1.1) (2025-02-11)
 
 
