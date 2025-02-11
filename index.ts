@@ -1,1 +1,1 @@
-export { default as Editor } from "./app/components/editor";
+export { default as TestPage } from "./app/components/testPage";
