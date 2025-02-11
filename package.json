@@ -76,7 +76,7 @@
     "access": "public"
   },
   "description": "This is a form-filler demo",
-  "main": "./index.ts",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Oonoo19/form-filler.git"
