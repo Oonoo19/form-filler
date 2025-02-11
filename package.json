@@ -1,6 +1,6 @@
 {
   "name": "form-filler-semantic-release",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Oyungerel Jargalsaikhan",
   "license": "UNLICENSED",
   "entry": "./index.ts",

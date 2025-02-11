@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/Oonoo19/form-filler/compare/v1.0.2...v1.0.3) (2025-02-11)
+
+
+### Bug Fixes
+
+* added npm token to automate publish ([5e36af2](https://github.com/Oonoo19/form-filler/commit/5e36af2ae8aa9e986b44a993fe4b659851d13257))
+
 ## [1.0.2](https://github.com/Oonoo19/form-filler/compare/v1.0.1...v1.0.2) (2025-02-11)
 
 
