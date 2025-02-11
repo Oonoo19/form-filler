@@ -4,7 +4,6 @@
   "author": "Oyungerel Jargalsaikhan",
   "license": "UNLICENSED",
   "entry": "./index.ts",
-  "private": true,
   "keywords": [
     "form",
     "filler",
@@ -81,6 +80,9 @@
         }
       ]
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "description": "This is a form-filler demo",
   "main": "index.js",
