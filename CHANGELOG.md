@@ -1,3 +1,10 @@
+## [1.1.7](https://github.com/Oonoo19/form-filler/compare/v1.1.6...v1.1.7) (2025-02-11)
+
+
+### Bug Fixes
+
+* created dist folder ([0705a74](https://github.com/Oonoo19/form-filler/commit/0705a74912d3860ca16750a837883e2ad25f7074))
+
 ## [1.1.6](https://github.com/Oonoo19/form-filler/compare/v1.1.5...v1.1.6) (2025-02-11)
 
 
