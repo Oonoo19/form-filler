@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import { Andada_Pro } from "next/font/google";
 import "./globals.css";
 
 const geistSans = localFont({
@@ -12,11 +11,6 @@ const geistMono = localFont({
   src: "./fonts/GeistMonoVF.woff",
   variable: "--font-geist-mono",
   weight: "100 900",
-});
-const andadaPro = Andada_Pro({
-  subsets: ['latin'],
-  weight: ['400', '700'],
-  style: ['normal', 'italic'],
 });
 
 export const metadata: Metadata = {
