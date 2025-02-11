@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/Oonoo19/form-filler/compare/v1.1.2...v1.1.3) (2025-02-11)
+
+
+### Bug Fixes
+
+* configured ts to js compile error ([e1e0ebd](https://github.com/Oonoo19/form-filler/commit/e1e0ebdcfebd8f22b0c19c484b2770ed1fe80c58))
+
 ## [1.1.2](https://github.com/Oonoo19/form-filler/compare/v1.1.1...v1.1.2) (2025-02-11)
 
 
