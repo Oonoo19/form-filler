@@ -18,19 +18,10 @@
   "dependencies": {
     "-": "^0.0.1",
     "@ant-design/icons": "^5.5.1",
-    "@react-pdf-viewer/core": "^3.12.0",
-    "@react-pdf/renderer": "^4.0.0",
     "antd": "^5.20.6",
-    "isomorphic-dompurify": "^2.15.0",
-    "jodit": "^4.2.27",
-    "jodit-react": "^4.1.2",
-    "lodash.debounce": "^4.0.8",
     "next": "14.2.11",
     "react": "^18",
-    "react-dom": "^18",
-    "react-pdf": "^9.1.1",
-    "react-pdf-html": "^2.1.2",
-    "save": "^2.9.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
@@ -96,8 +87,8 @@
   "homepage": "https://github.com/Oonoo19/form-filler#readme",
   "exports": {
     ".": {
-      "import": "./dist/index.mjs",
-      "require": "./dist/index.cjs"
+      "import": "./index.mjs",
+      "require": "./index.cjs"
     }
   }
 }
