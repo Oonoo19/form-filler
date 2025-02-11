@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/Oonoo19/form-filler/compare/v1.0.1...v1.0.2) (2025-02-11)
+
+
+### Bug Fixes
+
+* added module export ([ea845ea](https://github.com/Oonoo19/form-filler/commit/ea845ea3757cf492bf09a2f1d0afcd7cbc61a92f))
+* fixed export module ([748317b](https://github.com/Oonoo19/form-filler/commit/748317bc34f4030a70016733950c5da1b2b81726))
+
 ## [1.0.1](https://github.com/Oonoo19/form-filler/compare/v1.0.0...v1.0.1) (2025-02-10)
 
 
