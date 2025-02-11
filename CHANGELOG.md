@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Oonoo19/form-filler/compare/v1.1.0...v1.1.1) (2025-02-11)
+
+
+### Bug Fixes
+
+* configured typescript ([99704bd](https://github.com/Oonoo19/form-filler/commit/99704bdff089bf9b06b2fd8d3b6b5c30d636a0c1))
+
 # [1.1.0](https://github.com/Oonoo19/form-filler/compare/v1.0.4...v1.1.0) (2025-02-11)
 
 
