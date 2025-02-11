@@ -3,7 +3,6 @@
   "version": "1.1.1",
   "author": "Oyungerel Jargalsaikhan",
   "license": "UNLICENSED",
-  "entry": "./index.js",
   "keywords": [
     "form",
     "filler",
@@ -85,7 +84,7 @@
     "access": "public"
   },
   "description": "This is a form-filler demo",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Oonoo19/form-filler.git"
@@ -93,5 +92,11 @@
   "bugs": {
     "url": "https://github.com/Oonoo19/form-filler/issues"
   },
-  "homepage": "https://github.com/Oonoo19/form-filler#readme"
+  "homepage": "https://github.com/Oonoo19/form-filler#readme",
+  "exports": {
+  ".": {
+    "import": "./dist/index.mjs", 
+    "require": "./dist/index.cjs"  
+  }
+}
 }
