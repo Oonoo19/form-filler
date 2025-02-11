@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/Oonoo19/form-filler/compare/v1.1.4...v1.1.5) (2025-02-11)
+
+
+### Bug Fixes
+
+* fixed package.json ([c3f002c](https://github.com/Oonoo19/form-filler/commit/c3f002ce79236baa5bc8a202f7425f5b1dc9d344))
+
 ## [1.1.4](https://github.com/Oonoo19/form-filler/compare/v1.1.3...v1.1.4) (2025-02-11)
 
 
