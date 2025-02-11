@@ -18,5 +18,3 @@ export default function FormFillerPage() {
     </div>
   );
 }
-
-module.exports = FormFillerPage;

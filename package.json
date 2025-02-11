@@ -3,6 +3,8 @@
   "version": "1.0.1",
   "author": "Oyungerel Jargalsaikhan",
   "license": "UNLICENSED",
+  "entry": "./index.ts",
+  "private": true,
   "keywords": [
     "form",
     "filler",
